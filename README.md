@@ -4,7 +4,7 @@
 
 <h3 align="center">Corporate Behavior &  Tax Policy &  Welfare & Nonprofit & Economics Researcher <br/> </h3>
 
-[![Email](https://img.shields.io/badge/Email-siyuunni%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:siyuunni@gmail.com) [![X](https://img.shields.io/badge/X-@siyeonxofficial-black?style=flat-square&logo=x&logoColor=white)](https://x.com/siyeonxofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siyeon%20(Sia)%20Jeong-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siyeonjeongofficial/) 
+[![Email](https://img.shields.io/badge/Email-siyuunni%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:siyuunni@gmail.com) [![X](https://img.shields.io/badge/X-@Siyeonxoffical-black?style=flat-square&logo=x&logoColor=white)](https://x.com/Siyeonxoffical) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siyeon%20(Sia)%20Jeong-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siyeonjeongofficial/) 
 
 
 <p align="center">
