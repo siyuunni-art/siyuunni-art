@@ -87,7 +87,8 @@ I welcome collaborators interested in data-driven research and policy analysis m
 - Open to collaboration on **corporate taxation, fiscal policy, and policy evaluation research**
 
 ### 📄 CV
-👉 <a href="CV_LINK" target="_blank">Curriculum Vitae (PDF)</a>
+👉 [📄 CV (English)](https://github.com/siyuunni-art/docs-/blob/main/CV(EN)_SIYEON.JEONG.pdf?raw=true)
+
 
 ### 📫 Contact
 - Email: **siyuunni@gmail.com**
