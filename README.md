@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Si-Yeon Jeong 😊</h1>
+<h1 align="center">Si-Yeon Jeong</h1>
 
 <h3 align="center">Corporate Behavior &  Tax Policy &  Welfare & Nonprofit & Economics Researcher <br/> </h3>
 
