@@ -109,8 +109,4 @@ I welcome collaborators interested in data-driven research and policy analysis m
   </a>
 </p>
 
----
-<p align="center">
-  <img src="https://github-readme-stats-sy.vercel.app/api?username=siyuunni-art&theme=light&hide_border=false&border_radius=4.5" alt="GitHub Stats" />
-</p>
 
